@@ -1,0 +1,67 @@
+input,
+button {
+    margin-top: 5px !important;
+    margin-top: 5px !important;
+}
+
+.imglogin {
+    width: 100%;
+
+}
+
+.fotouser {
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 5px;
+    margin-right: 15px;
+}
+
+p {
+    margin-top: 15px;
+    margin-right: 15px;
+}
+
+h2 {
+    text-align: center;
+  }
+
+/* .conteudo {
+    display: flex;
+   margin: 15px;
+   justify-content: space-evenly;
+
+} */
+.card {
+    border: 0px !important;
+}
+
+.conteudo {
+    justify-content: center;
+}
+
+.card-text.precoatual {
+    font-size: 3em; /* Aumenta significativamente o tamanho da fonte */
+    color: black; /* Cor laranja para chamar a atenção */
+    font-weight: bold; /* Negrito para destacar */
+    padding: 10px; /* Espaçamento interno */
+    border-radius: 5px; /* Cantos arredondados */
+    text-align: center; /* Centralizar o texto */
+    margin-top: 10px; /* Espaçamento superior */
+    margin-bottom: 10px; /* Espaçamento inferior */
+    box-shadow: 0 2px 4px #fff(0, 0, 0, 0.1); /* Sombra para dar profundidade */
+    text-decoration: underline;
+}
+.fotos{
+    display: flex;
+   margin-left: 10px;
+}
+.fotos img{
+    margin: 10px 10px 10px 10px;
+    box-shadow: black;
+    border-radius: 5px;
+}
+.setas{
+    background-color:black;
+}
